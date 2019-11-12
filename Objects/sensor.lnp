@@ -1,0 +1,5 @@
+".\Objects\STARTUP.obj",
+".\Objects\DS18B20.obj",
+".\Objects\main.obj" 
+TO ".\Objects\sensor" 
+PRINT(".\Listings\sensor.m51")
